@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-gotta-varieties-sentence-task.trycloudflare.com
-=======
-cooking-suggesting-provinces-cedar.trycloudflare.com
->>>>>>> Stashed changes
+chapter-ala-suffered-descriptions.trycloudflare.com
